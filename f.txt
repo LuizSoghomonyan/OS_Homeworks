@@ -1,0 +1,8 @@
+
+
+
+git remote set-url origin https://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@github.com/LuizSoghomonyan/OS_Homeworks.git
+
+
+
+https://github.com/LuizSoghomonyan/OS_Homeworks.git
